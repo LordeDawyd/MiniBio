@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 50px;
+  border-radius: 100%;
+}
+
+header {
+  background-color: rgb(89, 183, 238);
+}
+
+h1, h3 {
+  color: rgb(214, 127, 188);
+}
+
+.section {
+  border: solid rgb(255, 0, 0);
+  margin: 10px;
+  border-color: rgb(30, 9, 107);
+}
+
+.rodape {
+  border: solid rgb(18, 0, 177);
+  margin: 10px;
+}/*# sourceMappingURL=style.css.map */
